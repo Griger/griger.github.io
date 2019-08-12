@@ -1,6 +1,7 @@
 name: griger
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge

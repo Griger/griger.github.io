@@ -1,1 +1,2 @@
 name: griger
+permalink: /blog/:year/:month/:day/:title

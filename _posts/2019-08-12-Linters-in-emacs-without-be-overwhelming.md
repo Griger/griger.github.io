@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linters in Emacs 1"
+title: "Linters in Emacs without Be Overwhelming"
 categories: [binary]
 date: 2019-08-12
 ---

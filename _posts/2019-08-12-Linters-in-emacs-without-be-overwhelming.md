@@ -11,3 +11,7 @@ date: 2019-08-12
 			(setq flycheck-pylintrc "~/.emacs.d/.pylintrc")
 			(setq indent-line-function #'my-python-indent-line)))
 ```
+
+```python
+print("Hello world")
+```

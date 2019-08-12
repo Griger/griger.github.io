@@ -1,2 +1,3 @@
 name: griger
 permalink: /blog/:year/:month/:day/:title
+highlighter: rouge
